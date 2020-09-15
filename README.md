@@ -7,8 +7,8 @@
 I'm Aman Bahuguna, Currently Pursuing Undergraduate in Computer Science 👨‍💻, Strong in problem-solving, Project management and Communication Skill. Proficient in C++, Python, Data Structures and Algorithms. Passionate about learning new technologies and making projects.  
 
 ## 😎 About
-- 👨🏽‍💻 I’m currently working on a Machine Learning & Deep Learning projects.
-- 👯 I’m looking for an Research internship in Machine Learning and SDE domains
+- 👯 I’m looking for a Research internship in Machine Learning and SDE domains
+- 👨🏽‍💻 I’ve done various project on a Machine Learning & Deep Learning. 
 - 😄 Just completed my Summer Internship with TheSmartBridg in Machine Learning Domain. [Project](https://github.com/SmartPracticeschool/llSPS-INT-3437-Predicting-the-Energy-Output-of-Wind-Turbine-Based-on-Weather-Conditions-Watson-Auto-)
 - 👍 Completed my Summer internship with Internity Foundation also as a volunteer in Data structure & algorithm field
 - 🌱 I love to speak at public events and Travel lover.favorite country Switzerland, [Zurich](https://www.google.com/search?q=tourism+in+bern&rlz=1C1CHBF_enIN910IN910&sxsrf=ALeKk02g2mSUYqvp8gAkmIS04Zaq34B-2g:1596178176559&tbm=isch&source=iu&ictx=1&fir=lQUu1BPd5YBMjM%252CTaNXoQ4WjjWbIM%252C%252Fm%252F0d6nx&vet=1&usg=AI4_-kRlbl_WyOaD6HjmuyWVblDAvPTdgQ&sa=X&ved=2ahUKEwiLzdiJ8_bqAhXYTX0KHchcDSoQ_B0wF3oECBEQAw&biw=1024&bih=657#imgrc=zF6CIkZ2oDGpOM)
